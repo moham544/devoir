@@ -1,0 +1,29 @@
+body {
+
+background-color: rgb(123, 255, 244);
+text-align: center;
+}
+
+
+h1 {
+color: rgb(107, 107, 248);
+margin-left: 20px;
+border:2px solid  DodgerBlue;
+text-align: center;
+}
+h2 {
+border-top-style: none;
+border-right-style: solid;
+border-bottom-style: none;
+border-left-style: solid;
+background-color: rgb(129, 226, 255) ;
+color :rgb(0, 0, 0) ;
+margin-left: 400px;
+margin-right: 400px;
+text-align: center;
+}
+pre{
+background-color: rgb(5, 14, 17);
+color :rgb(255, 248, 210)
+text-align: center;
+}
